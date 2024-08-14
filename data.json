@@ -1,0 +1,40 @@
+{
+  "data": {
+    "CSPM": [
+      {
+        "id": 1,
+        "title": "Cloud Account",
+        "content": "This is content writing section."
+      },
+      {
+        "id": 2,
+        "title": "Cloud Account Risk Assessment",
+        "content": "This is content writing section."
+      }
+    ],
+    "CWPP": [
+      {
+        "id": 1,
+        "title": "Top Five Namespace Specific Alerts",
+        "content": "This is content writing section."
+      },
+      {
+        "id": 2,
+        "title": "Workload Alerts",
+        "content": "This is content writing section."
+      }
+    ],
+    "Registry Scan": [
+      {
+        "id": 1,
+        "title": "Image Risk Assessments",
+        "content": "This is content writing section."
+      },
+      {
+        "id": 2,
+        "title": "Image Security Issues",
+        "content": "This is content writing section."
+      }
+    ]
+  }
+}
